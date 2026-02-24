@@ -1,0 +1,6 @@
+git clone https://github.com/DeathCowboy/sh1m.git
+cd sh1m
+# Copy your zip file here
+git add CX3402CVA_R121_20241023_RMA_shim_for_self_repair.zip
+git commit -m "Add Asus Chromebook Plus CX3402 RMA shim for self repair"
+git push origin main
